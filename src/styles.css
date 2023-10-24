@@ -20,6 +20,7 @@ body {
 }
 
 .content {
+
   min-height: calc(100vh - 140px);
   width: 760px;
   max-width: 100%;
@@ -38,3 +39,4 @@ body {
 .section:first-child {
   margin-top: 0;
 }
+
